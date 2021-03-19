@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CookingTime</string>
+    <string name="hint">?</string>
+    <string name ="hello_world">CookingTime</string>
+
+    <string name ="RecipeBook">Recipe Book</string>
+    <string name ="FavouriteRecipes">Favourite Recipes</string>
+    <string name ="Profile">Profile</string>
+</resources>
